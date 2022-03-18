@@ -5,14 +5,14 @@ Link para o curso: https://www.youtube.com/playlist?list=PLn2i8I7W73iq3nH2zgvTiI
 <br>
 
 ## Requisitos:
-Ruby 2.5 <br>
+Ruby<br>
 Cmder <br>
 Visual Studio Code <br>
 
 <br>
 <br>
 
-## Instalando o Ruby 2.5:
+## Instalando o Ruby:
 
 Acesse esse link https://www.ruby-lang.org/pt/downloads/ e siga os passos do site e/ou do vídeo
 
