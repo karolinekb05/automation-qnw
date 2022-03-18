@@ -42,3 +42,7 @@ gem install bundler
 Em seguida, para instalar as dependências do Gemfile execute o comando abaixo:
 
 bundle install
+
+# Instalando o Chromedriver
+
+Acesse o link https://chromedriver.chromium.org/downloads e baixe mesma versão do seu navegador
