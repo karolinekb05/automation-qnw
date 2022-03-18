@@ -8,7 +8,8 @@ Link para o curso: https://www.youtube.com/playlist?list=PLn2i8I7W73iq3nH2zgvTiI
 Ruby 2.5 <br>
 Cmder <br>
 Visual Studio Code <br>
-Gems <br>
+
+<br>
 <br>
 
 ## Instalando o Ruby 2.5:
