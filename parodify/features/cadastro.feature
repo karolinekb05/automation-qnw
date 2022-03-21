@@ -11,8 +11,14 @@ Funcionalidade: Cadastro de Usuário
 @happy #para executar somente esse cenário, executar no terminal: cucumber -t @happy
 Cenario: Cadastro
     Dado que acesso a página de cadastro
-    Quando submeto o meu cadastro com email, senha e confirmação da senha
-    Então devo ser redirecionado para a área logada
+    Quando submeto o meu cadastro com:
+            | nome     | Karolineekk         |
+            | email    | karol1234@gmail.com |
+            | senha    | teste123            |
+            | telefone | 00000000000         |
+    Então devo logar com:
+            | email | karol1234@gmail.com |
+            | senha | teste123            |
 
 #Abaixo são os cenários alterantivos de falha
 
