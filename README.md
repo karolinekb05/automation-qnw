@@ -2,7 +2,10 @@
 <br>
 Link para o curso: https://www.youtube.com/playlist?list=PLn2i8I7W73iq3nH2zgvTiI7QSGj4FRNvo
 <br>
+<br>
+
 <b>OBS: eu adaptei para um site pessoal, então escolha um site e altere ao executar no seu computador</b>
+
 <br>
 <br>
 
